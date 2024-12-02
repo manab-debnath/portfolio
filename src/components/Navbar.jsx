@@ -56,10 +56,10 @@ const Navbar = () => {
 	};
 
 	return (
-		<nav className="bg-white dark:bg-gray-900 w-full fixed z-50">
+		<nav className="bg-white dark:bg-gray-900 w-full fixed z-50 font-heading">
 			<div className="max-w-6xl mx-auto px-4 py-6">
 				<div className="flex justify-between items-center">
-					<h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+					<h1 className="text-2xl font-bold font-heading text-gray-900 dark:text-gray-100">
 						Manab Debnath
 					</h1>
 

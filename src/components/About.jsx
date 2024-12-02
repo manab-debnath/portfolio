@@ -7,10 +7,10 @@ const About = () => {
 	return (
 		<section id="about" className="py-20 dark:bg-gray-900">
 			<div className="max-w-6xl mx-auto px-4 dark:bg-gray-900">
-				<h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-8">
+				<h2 className="text-3xl font-bold font-heading text-gray-900 dark:text-gray-100 mb-8">
 					About Me
 				</h2>
-				<div className="bg-white dark:bg-gray-900 rounded-xl shadow-lg dark:shadow-dark p-8">
+				<div className="bg-white dark:bg-gray-900 rounded-xl shadow-lg dark:shadow-dark p-8 font-sans">
 					<p className="text-gray-600 dark:text-gray-100 leading-relaxed mb-6">
 						I'm a passionate Full Stack Developer with 5+ years of experience in
 						building web applications. I specialize in React, Node.js, and
