@@ -30,7 +30,7 @@ const Contact = () => {
 								(123) 456-7890
 							</a>
 							<a
-								href="https://github.com/johndoe"
+								href="https://github.com/manab-debnath"
 								target="_blank"
 								rel="noopener noreferrer"
 								className="flex items-center gap-3 text-gray-600 hover:text-blue-500 dark:hover:text-blue-400 dark:text-gray-300 transition-colors"
